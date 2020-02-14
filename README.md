@@ -1,4 +1,4 @@
-# vuew.structured.learning
+# vue.structured.learning
 Attempt to structure knowledge in a model, in a website, built with vue; cause why not
 
 ## Idea
